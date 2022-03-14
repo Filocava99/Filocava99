@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Filocava99)](https://github.com/Filocava99/github-profile-trophy)
 <!--
 **Filocava99/Filocava99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
