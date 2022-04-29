@@ -4,6 +4,6 @@
 
 
 ![Filippo Cavallari's GitHub stats](https://github-readme-stats.vercel.app/api?username=filocava99&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact&exclude_repo=Procedural-low-poly-terrain-generation-with-Unity3D)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Filocava99&theme=synthwave)](https://github.com/Filocava99/github-profile-trophy) -->
