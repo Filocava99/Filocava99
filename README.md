@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-Good-green?style=flat&logo=node.js&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=filocava99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Filippo Cavallari's GitHub stats](https://github-readme-stats.vercel.app/api?username=filocava99&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact&exclude_repo=Procedural-low-poly-terrain-generation-with-Unity3D)
