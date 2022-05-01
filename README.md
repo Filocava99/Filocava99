@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact&exclude_repo=Procedural-low-poly-terrain-generation-with-Unity3D)
 
 <a href="https://app.codiga.io/hub/user/github/Filocava99">
-   <img src="https://api.codiga.io/public/badge/user/github/Filocava99?style=light" alt="codiga badge" />
+   <img src="https://api.codiga.io/public/badge/user/github/Filocava99?style=dark" alt="codiga badge" />
 </a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Filocava99&theme=synthwave)](https://github.com/Filocava99/github-profile-trophy) -->
