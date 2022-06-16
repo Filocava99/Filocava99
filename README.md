@@ -8,7 +8,8 @@
 ![PHP](https://img.shields.io/badge/PHP-I%20hate%20it-red?style=flat&logo=php&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-Good-green?style=flat&logo=node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-Fluent-green?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-Good-green?style=flat&logo=node.js&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filocava99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
