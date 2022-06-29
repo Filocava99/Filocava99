@@ -21,3 +21,7 @@
 </a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Filocava99&theme=synthwave)](https://github.com/Filocava99/github-profile-trophy) -->
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=filocava99&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
