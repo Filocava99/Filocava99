@@ -10,6 +10,9 @@
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-Good-green?style=flat&logo=node.js&logoColor=white)
+MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy
+
+#### Random stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filocava99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
