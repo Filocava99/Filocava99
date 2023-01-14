@@ -19,8 +19,8 @@ Check out [my personal page](https://filocava99.github.io/mypage/) if you have t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filocava99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Filippo Cavallari's GitHub stats](https://github-readme-stats.vercel.app/api?username=filocava99&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact&exclude_repo=Procedural-low-poly-terrain-generation-with-Unity3D)
+<!--![Filippo Cavallari's GitHub stats](https://github-readme-stats.vercel.app/api?username=filocava99&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filocava99&theme=synthwave&layout=compact&exclude_repo=Procedural-low-poly-terrain-generation-with-Unity3D) -->
 
 <a href="https://app.codiga.io/hub/user/github/Filocava99">
    <img src="https://api.codiga.io/public/badge/user/github/Filocava99?style=dark" alt="codiga badge" />
