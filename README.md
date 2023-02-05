@@ -15,6 +15,9 @@
 MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy.  
 Check out [my personal page](https://filocava99.github.io/mypage/) if you have time.
 
+
+![](contributions.svg)
+
 #### Random stats
 <table>
    <tr>
