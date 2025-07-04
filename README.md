@@ -1,5 +1,6 @@
 #### Languages
-![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Typescript-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
+![Typescript](https://img.shields.io/badge/Java-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Fluent-green?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Fluent-green?style=flat&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Intermediate-blue?style=flat&logo=c%20sharp&logoColor=white)
