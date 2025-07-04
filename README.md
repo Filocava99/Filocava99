@@ -7,7 +7,7 @@
 ![C#](https://img.shields.io/badge/C%23-Intermediate-blue?style=flat&logo=c%20sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-Average-yellow?style=flat&logo=c&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-Beginner-orange?style=flat&logo=scala&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-I%20hate%20it-red?style=flat&logo=php&logoColor=white)
+
 #### Other techs
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-Fluent-green?style=flat&logo=node.js&logoColor=white)
